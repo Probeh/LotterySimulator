@@ -1,0 +1,12 @@
+C:\Users\Home\Documents\Visual Studio 2013\Projects\Project\bin\Debug\Project.exe.config
+C:\Users\Home\Documents\Visual Studio 2013\Projects\Project\bin\Debug\Project.exe
+C:\Users\Home\Documents\Visual Studio 2013\Projects\Project\bin\Debug\Project.pdb
+C:\Users\Home\Documents\Visual Studio 2013\Projects\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
+C:\Users\Home\Documents\Visual Studio 2013\Projects\Project\obj\Debug\Project.exe
+C:\Users\Home\Documents\Visual Studio 2013\Projects\Project\obj\Debug\Project.pdb
+C:\Users\Home\Documents\Visual Studio 2013\Projects\01 - C#\Project\bin\Debug\Project.exe.config
+C:\Users\Home\Documents\Visual Studio 2013\Projects\01 - C#\Project\obj\Debug\Project.exe
+C:\Users\Home\Documents\Visual Studio 2013\Projects\01 - C#\Project\obj\Debug\Project.pdb
+C:\Users\Home\Documents\Visual Studio 2013\Projects\01 - C#\Project\bin\Debug\Project.exe
+C:\Users\Home\Documents\Visual Studio 2013\Projects\01 - C#\Project\bin\Debug\Project.pdb
+C:\Users\Home\Documents\Visual Studio 2013\Projects\01 - C#\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
